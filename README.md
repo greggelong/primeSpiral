@@ -11,13 +11,13 @@ I am using a multiplier for called ‘unit’ to for plotting.
 So you get r, radius, by multiplying the prime by r,
 and you get the angle, theta, by getting that same prime mod TWO_PI
 
-```javaScript
+```javascript
 r = num * unit;
 theta = num%TWO_PI;
 ```
 then you need to convert the ‘r’ and ‘theta’ into Cartesian coordinates using soh cah
 
-```javaScript  	
+```javascript  	
 y = r* sin(theta);
 x = r* cos(theta);
 ```
