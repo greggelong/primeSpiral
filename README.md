@@ -23,5 +23,5 @@ it is animated. And currently set to do the primes under 5000
 but if you download it you can set the max higher or lower.
 There is also a commented out line for saving a png when it reaches the max number
 
-[see it live](greggelong.github.io/primeSpiral)
+[see it live](https://greggelong.github.io/primeSpiral)
 
